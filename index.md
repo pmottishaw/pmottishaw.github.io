@@ -10,6 +10,13 @@ usemathjax: true
 # Your Content Starts Here
 This is my website content in Markdown $x=y$ it seems to work now.
 
+# A display equation
+
+Here it is 
+$$
+\Gamma(x)=\int_{0}^{\infty} t^{x-1} e^{-t}\,dt,\qquad x>0.
+$$
+
 # Publications
 
 | Year | Publication                                                                                                                                                                                                                                                                                                                                                                                                    |
