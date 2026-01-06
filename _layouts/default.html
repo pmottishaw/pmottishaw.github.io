@@ -17,7 +17,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     {% include head-custom.html %}
     {% if page.usemathjax %}
-      <script type="text/javascript" async src="cdn.jsdelivr.net"></script>
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: {'[+]': [['$', '$']]}
+        }
+      };
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js"></script>
     {% endif %}
   </head>
   <body>
