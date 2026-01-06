@@ -8,7 +8,7 @@ usemathjax: true
 - [Publications](#publications)
 
 # Your Content Starts Here
-This is my website content in Markdown $x=y$.
+This is my website content in Markdown $x=y$ what about \(x=z\).
 
 # Publications
 
