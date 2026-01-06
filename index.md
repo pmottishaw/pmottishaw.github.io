@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Single Page Site
+usemathjax: true
 ---
 
 # Contents
