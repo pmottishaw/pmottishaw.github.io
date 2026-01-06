@@ -12,7 +12,8 @@ This is my website content in Markdown $x=y$ it seems to work now.
 
 # A display equation
 
-Here it is 
+Here it is - is this inline or display?
+
 $$
 \Gamma(x)=\int_{0}^{\infty} t^{x-1} e^{-t}\,dt,\qquad x>0.
 $$
