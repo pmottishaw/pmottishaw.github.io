@@ -1,10 +1,10 @@
 ---
 layout: default
-title: My Single Page Site
+title: Peter Mottishaw
 usemathjax: true
 ---
 
-# Contents
+Contents
 - [Publications](#publications)
 
 # Your Content Starts Here
