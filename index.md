@@ -5,20 +5,32 @@ usemathjax: true
 ---
 
 Contents
+- [Research Interests](#research-interests)
+- [My Background](#my-background)
 - [Publications](#publications)
 
-# Your Content Starts Here
-This is my website content in Markdown $x=y$ it seems to work now.
+I am currently a visitor at Edinburgh University in the [Statistical Physics and Complexity](https://www.ph.ed.ac.uk/icmcs/research-themes/statistical-physics-and-complexity) group. I also organise the [Edinburgh Statistical Physics and Complexity Webinar Series](https://www.ph.ed.ac.uk/icmcs/seminars/statistical-physics-and-complexity-group-meetings), jointly with Martin Evans.
 
-# A display equation
+Contact: [Peter Mottishaw](https://www.ph.ed.ac.uk/people/peter-mottishaw) 
 
-Here it is - is this inline or display?
+# Research interests
 
-$$
-\Gamma(x)=\int_{0}^{\infty} t^{x-1} e^{-t}\,dt,\qquad x>0.
-$$
+My general area of research interest is in statistical physics and particularly in disordered systems. I am also interested in the applications of concepts from the physics of disordered systems in areas such as neural networks, artificial intelligence and optimization problems. 
+
+In recent years, I have focused (in collaboration with Bernard Derrida) on investigating generalizations of Parisi's replica symmetry breaking scheme which seem to be required to accurately describe overlap statistics in certain situations. These include generalizations of the random energy model to consider finite size corrections, overlaps between different temperatures and discrete energy levels.
+
+# My background
+
+I completed my PhD in statistical physics at Imperial College in 1985 under the supervision of David Sherrington. This was followed by postdocs at the Institut de physique théorique - IPhT Saclay and Oxford University. My main areas of research were on first order phase transitions in spin glasses with David Sherrington, and the development of replica methods for dilute spin glasses with Cirano de Dominicis. I briefly worked with Bernard Derrida and Elizabeth Gardner on neural networks. I also demonstrated how replica symmetry is broken in the spin glass on a Bethe lattice (which was controversial at the time). 
+
+I then shifted my interest to the application of the ideas of disordered systems to real world problems in computer networks and telecommunications. I was the inventor of a number of patents for the management and optimization of these networks which were very successful during the period of extremely rapid growth of the internet in the 1990s and early 2000s. 
+
+I was fascinated by the turbulent world of high technology companies and the challenges of formulating a successful business strategy. I completed an MBA in 2001 and moved into management, getting involved in acquisitions and holding senior positions in business strategy. 
+
+The experience was very interesting but also very frustrating. It felt like I had moved a long way from what I really wanted to do. When my company was acquired in 2008 I decided to return to theoretical physics. It was a very pleasant surprise to rediscover a world were people are motivated by improving our understanding of the world. I am particularly grateful to Bernard Derrida and Martin Evans for their support in making the move back to physics possible. 
 
 # Publications
+
 
 | Year | Publication                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,17 +45,15 @@ $$
 | 1989 | [Stability study of ising spin glasses with finite connectivity](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:_FxGoFyzp5QC)<br><br>C Dominicis, JRL de Almeida, P Mottishaw                                                                                                                                                |
 | 1988 | [Equilibrium states of the spin glass on a Bethe lattice](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:Tyk-4Ss8FVUC)<br><br>RC Dewar, P Mottishaw<br><br>Journal of Physics A: Mathematical and General 21 (23), L1135                                                                                                     |
 | 1988 | [Dilute random spin systems with finite connectivity at low temperature: solution with continuous components and longitudinal stability](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:IjCSPb-OGe4C)<br><br>JRL de Almeida, C De Dominicis, P Mottishaw<br><br>Journal of Physics A: Mathematical and General 21 (13), L693 |
-| 1986 | [On the replica symmetric Ising spin glasses](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:YsMSGLbcyi4C)<br><br>C De Dominicis, P Mottishaw<br><br>Fluctuations and Stochastic Phenomena in Condensed Matter: Proceedings of …                                                                                             |
 | 1988 | [Graph partitioning and dilute spin glasses: the minimum cost solution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:UeHWp8X0CEIC)<br><br>KYM Wong, D Sherrington, P Mottishaw, R Dewar, C De Dominicis<br><br>Journal of Physics A: Mathematical and General 21 (2), L99                                                  |
+| 1987 | [On the replica symmetric Ising spin glasses](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:YsMSGLbcyi4C)<br><br>C De Dominicis, P Mottishaw<br><br>Fluctuations and Stochastic Phenomena in Condensed Matter: Proceedings of …                                                                                             |
 | 1987 | [Replica symmetry breaking in weak connectivity systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:2osOgNQ5qMEC)<br><br>CD Dominicis, P Mottishaw<br><br>Journal of Physics A: Mathematical and General 20 (18), L1267                                                                                                  |
 | 1987 | [On the stability of the replica symmetric theory of the matching problem: the longitudinal sector](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:W7OEmFMy1HYC)<br><br>C De Dominicis, P Mottishaw<br><br>Journal of Physics A: Mathematical and General 20 (13), L841                                                      |
 | 1987 | [Replica symmetry breaking and the spin-glass on a Bethe lattice](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:9yKSN-GCB0IC)<br><br>P Mottishaw<br><br>Europhysics Letters 4 (3), 333                                                                                                                                      |
 | 1987 | [Zero temperature parallel dynamics for infinite range spin glasses and neural networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:u5HHmVD_uO8C)<br><br>E Gardner, B Derrida, P Mottishaw<br><br>Journal de physique 48 (5), 741-755                                                                                    |
 | 1987 | [On the stability of randomly frustrated systems with finite connectivity](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:d1gkVwhDpl0C)<br><br>P Mottishaw, C De Dominicis<br><br>Journal of Physics A: Mathematical and General 20 (6), L375                                                                                |
-| 1987 | [Heidelberg Colloquium on Glassy Dynamics](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:4TOpqqG69KYC)<br><br>C DeDominicis, P Mottishaw<br><br>Lecture Notes in Physics 275                                                                                                                                                |
-| 1987 | [Sitges conf. proc., May](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:Zph67rFs4hoC)<br><br>C de Dominicis, P Mottishaw<br><br>Lecture Notes in Physics 268                                                                                                                                          |
 | 1987 | [Replica symmetric solutions in the Ising spin glass: the tree approximation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:zYLM7Y9cAGgC)<br><br>C De Dominicis, P Mottishaw<br><br>Europhysics Letters 3 (1), 87                                                                                     |
 | 1986 | [Stability and replica symmetry in the ising spin glass: a toy model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:Y0pCki6q_DkC)<br><br>C De Dominicis, P Mottishaw<br><br>Journal de physique 47 (12), 2021-2024                                                                                    |
 | 1986 | [First-order spin glass transitions: an exact solution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:qjMakFHDy7sC)<br><br>P Mottishaw<br><br>Europhysics Letters 1 (8), 409                                                                                                                          |
 | 1985 | [Stability of a crystal-field split spin glass](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:u-x6o8ySG0sC)<br><br>PJ Mottishaw, D Sherrington<br><br>Journal of Physics C: Solid State Physics 18 (26), 5201                                                                                         |
-| 1985 | [Theory of spin glasses and related systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:UebtZRa9Y70C)<br><br>PJ Mottishaw<br><br>University of London                                                                                                                                              |
+| 1985 | [Theory of spin glasses and related systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mb_2mEAAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=mb_2mEAAAAAJ:UebtZRa9Y70C)<br><br>PJ Mottishaw<br><br>Thesis, Imperial College, University of London                                                                                                                    |
