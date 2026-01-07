@@ -11,6 +11,9 @@ Contents
 
 I am currently a visitor at Edinburgh University in the [Statistical Physics and Complexity](https://www.ph.ed.ac.uk/icmcs/research-themes/statistical-physics-and-complexity) group. I also organise the [Edinburgh Statistical Physics and Complexity Webinar Series](https://www.ph.ed.ac.uk/icmcs/seminars/statistical-physics-and-complexity-group-meetings), jointly with Martin Evans.
 
+![Peter Mottishaw](/assets/images/Peter_Marseille_2025.jpg)
+
+
 Contact: [Peter Mottishaw](https://www.ph.ed.ac.uk/people/peter-mottishaw) 
 
 # Research interests
